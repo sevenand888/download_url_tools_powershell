@@ -1,5 +1,5 @@
-# PowerShell 可执行文件
-*.exe
+# PowerShell 可执行文件 (除了主程序)
+# !双击此处开始下载file.txt中的url内容.exe
 
 # 下载的文件目录
 files/downloads/
